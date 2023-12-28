@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Hacktives/Myblog
+  repo: Cermatedu/Myblog
   branch: main
 publish_mode: editorial_workflow
 media_folder: "assets/images"
